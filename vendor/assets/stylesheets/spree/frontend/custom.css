@@ -1,0 +1,10 @@
+
+#spree-header #logo{
+
+	width: 6em;
+}
+
+#spree-header #header {
+
+	background-color: rgba(15, 15, 16, 0.37)
+}
